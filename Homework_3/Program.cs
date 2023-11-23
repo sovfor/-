@@ -31,6 +31,6 @@
  int[] array = CreateNewRandomArray();
  FillArray(array, array.Length - 1);
  WriteArray(array, array.Length - 1);
- Console.WriteLine();
+
 
 
