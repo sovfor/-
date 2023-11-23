@@ -28,4 +28,5 @@ int Akkerman(int m,int n)
 return 1000;
 }
 
+Console.WriteLine();
 Console.WriteLine(Akkerman(n,m));
